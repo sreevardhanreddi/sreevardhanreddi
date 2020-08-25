@@ -25,9 +25,9 @@
 <a href="https://www.reddit.com/user/sreevardhanreddi">
   <img style="margin:4px;" alt="Sreevardhan's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/sreevardhanreddi/">
+<!--<a href="https://leetcode.com/sreevardhanreddi/">
   <img style="margin:4px;" alt="Sreevardhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+</a>-->
 </div>
 
 <br />
