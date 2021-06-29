@@ -4,6 +4,8 @@
 - Learning Golang, Docker, kuberenetes ...
 - I enjoy watching **Anime**.
 
+![](https://visitor-badge.glitch.me/badge?page_id=imneonizer)
+
 ### Socials
 
 <div style="display:flex; justify-content:center">
