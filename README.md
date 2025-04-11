@@ -59,4 +59,5 @@
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreevardhanreddi&show_icons=true&locale=en&theme=dark&hide_border=true" alt="sreevardhanreddi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreevardhanreddi&theme=dark&hide_border=true" alt="sreevardhanreddi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sreevardhanreddi&theme=dark&hide_longest_streak=true" alt="sreevardhanreddi" /></p>
