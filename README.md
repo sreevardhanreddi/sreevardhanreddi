@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sreevardhan</h1>
 <h3 align="center">Software Developer</h3>
 
-- Currently working as Full Stack Developer.
+- Currently working as a Software Developer.
 - Learning Golang, Docker, kuberenetes ...
 - I enjoy watching **Anime**.
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=sreevardhanreddi" alt="sreevardhanreddi" /> </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -21,6 +20,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -57,9 +57,10 @@
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </p>
-
+-->
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreevardhanreddi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sreevardhanreddi" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreevardhanreddi&show_icons=true&locale=en&theme=dark&hide_border=true" alt="sreevardhanreddi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreevardhanreddi&theme=dark&hide_border=true" alt="sreevardhanreddi" /></p>
