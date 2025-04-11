@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/12030498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12030498" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sreevardhan-reddy-346904120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreevardhan-reddy-346904120" height="30" width="40" /></a>
 <a href="https://twitter.com/psreevardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psreevardhan" height="30" width="40" /></a>
-<a href="https://dev.to/sreevardhanreddi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sreevardhanreddi" height="30" width="40" /></a>
+<a href="https://dev.to/sreevardhanreddi" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sreevardhanreddi" height="30" width="40" /></a>
 <a href="https://t.me/sreevardhanreddi" target="blank">
     <img align="center" alt="Sreevardhan's Telegram" height="30" width="40"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
