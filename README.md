@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sreevardhan</h1>
-<h3 align="center">Software Developer</h3>
 
 I'm a passionate Full-Stack Developer and Cloud Enthusiast focused on building scalable systems, cloud-native applications, and AI-based solutions for complex data problems.
 
