@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreevardhan</h1>
 <h3 align="center">Software Developer</h3>
 
-- Currently working as a Software Developer.
-- Learning Golang, Docker, kuberenetes ...
-- I enjoy watching **Anime**.
-
 
 <h3 align="left">Socials:</h3>
 <p align="left">
