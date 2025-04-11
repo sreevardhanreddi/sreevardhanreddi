@@ -32,9 +32,6 @@ Working on improving cloud infrastructure and CI/CD processes using GCP serverle
 <a href="https://t.me/sreevardhanreddi" target="blank">
     <img align="center" alt="Sreevardhan's Telegram" height="42" width="42"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
-  <a href="https://www.reddit.com/user/sreevardhanreddi" target="blank">
-    <img align="center"  alt="Sreevardhan's Reddit" height="42" width="42" src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Brand/Reddit_Logo.png?width=400&height=400&name=Reddit_Logo.png" />
-  </a>
 </p>
 
 <!--
