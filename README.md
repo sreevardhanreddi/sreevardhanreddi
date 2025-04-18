@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sreevardhan</h1>
 
-I'm a passionate Full-Stack Developer and Cloud Enthusiast focused on building scalable systems, cloud-native applications, and AI-based solutions for complex data problems.
+I'm a Software Developer and Cloud Enthusiast focused on building scalable systems, cloud-native applications, and AI-based solutions for complex data problems.
 
 ---
 
 ## 💼 Current Role
 
-### 🔹 Full Stack Engineer @ [Poshn.co](https://poshn.co) (Remote)  
+### 🔹 Software Engineer @ [Poshn.co](https://poshn.co) (Remote)  
 Working on improving cloud infrastructure and CI/CD processes using GCP serverless. Leveraging LLMs and multimodal models for document automation and team guidance.
 
 ---
